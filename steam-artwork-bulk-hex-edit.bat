@@ -15,6 +15,5 @@ echo Batch editing completed.
 goto:eof
 
 :NOFILES
-echo There are no files to move.
-
+echo There are no files to process.
 pause
